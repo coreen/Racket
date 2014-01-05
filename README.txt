@@ -1,1 +1,1 @@
-Lisp Language.
+Functional Programming.
